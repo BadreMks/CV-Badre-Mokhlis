@@ -249,7 +249,7 @@ section > div{
 .comp{
     display:flex;
     flex-flow: row wrap;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 .comp p{
     flex: 0 0 40%;
@@ -372,7 +372,7 @@ contact-me {
     display: flex;
     flex-flow: column wrap;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 interet img{
     width: 80px;
